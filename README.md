@@ -2,6 +2,12 @@
 Open-source Интернет-вещей проект умного цветочного горшка с WiFI и управлением через ThingWorx academic
 
 
+------------
+After some time, the project was refactored for use only on the ESP8266 and on the Ubidots platform!
+The new code is available in /tree/master/Code/OinvizioN_SWS folder!
+------------
+
+
 - Система автополива
 - Датчики влажности, освещенности, температуры, влажности почвы
 - Автоматическое дополнительное освещение по типу "Розовой фермы"
